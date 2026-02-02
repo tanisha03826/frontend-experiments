@@ -54,15 +54,7 @@ After completing this experiment, the student will be able to:
 - Implement filtering logic using conditional statements
 - Dynamically generate and update HTML elements
 - Use CSS Grid for responsive layouts
-- Understand how UI behavior changes based on user interaction
-
-### Viva Voce Questions
-1. Explain the auto-fill behavior in CSS Grid.
-2. How would you implement multi-category filtering?
-3. What is the purpose of using toFixed(2) for prices?
-4. How could you add sorting by price or name?
-5. Why are unique keys or identifiers important when rendering lists?
-
+- Understand how UI behavior changes based on user interaction.
 ---
 
 ## Implementation Method
@@ -86,5 +78,24 @@ This approach ensures better user experience and efficient frontend design.
 ## Deployment
 The project is hosted on **Netlify** and version-controlled using **GitHub**.
 
----
+Experiment 3: Interactive SVG Drawing Tool
+### Aim
+To build an interactive SVG drawing tool with mouse event handlers.
+### Objectives
+- Create an SVG canvas component  
+- Implement mouse event tracking  
+- Add shape drawing functionality  
+- Include color selection and undo feature  
+- Make the canvas responsive using viewport units  
+### Learning Outcomes
+After completing this experiment, the student will be able to:
+- Understand SVG elements and coordinate systems  
+- Track mouse events using JavaScript  
+- Convert screen coordinates to SVG coordinates  
+- Implement undo functionality  
+- Build interactive graphical applications  
+## Technologies Used
+- HTML  
+- CSS  
+- JavaScript ---
 
